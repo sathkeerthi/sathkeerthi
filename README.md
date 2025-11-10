@@ -26,13 +26,13 @@
 
 <table style="width:100%;">
   <tr>
-    <td style="width:55%; vertical-align:middle;">
+    <td style="width:65%; vertical-align:middle;">
       <h3 style="margin:10px;">Detailed Stats: </h3>
       <div align="center" style="margin:0;">
         <img width="100%" src="https://raw.githubusercontent.com/sathkeerthi/sathkeerthi/main/github-metrics.svg" alt="Detailed Metrics"/>
       </div>
     </td>
-    <td style="width:50%; text-align:left; vertical-align:top;">
+    <td style="width:35%; text-align:left; vertical-align:top;">
     <h4 style="margin:10px;">Pinned repositories: </h4>
       <a href="https://github.com/sathkeerthi/AuthForge">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathkeerthi&repo=AuthForge&theme=dark" alt="AuthForge"/>
