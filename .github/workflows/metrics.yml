@@ -51,10 +51,8 @@ jobs:
 
           # Featured repositories
           plugin_repositories: yes
-          plugin_repositories_featured:
-            - sathkeerthi/AuthForge
-            - sathkeerthi/student-management-system-springboot-react
-            - sathkeerthi/LeetCode-DSA
+          plugin_repositories_featured: "sathkeerthi/AuthForge, sathkeerthi/student-management-system-springboot-react, sathkeerthi/LeetCode-DSA"
+
 
           # Topics (might delete)
           plugin_topics: yes
