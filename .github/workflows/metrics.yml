@@ -39,8 +39,10 @@ jobs:
 
           # activity
           plugin_activity: yes
-          plugin_activity_limit: 3
-          plugin_activity_days: 100
+          plugin_activity_limit: 2
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_timestamps: yes
 
           # interesting facts
           plugin_habits_facts: yes
@@ -59,8 +61,8 @@ jobs:
           plugin_languages_threshold: 0%
 
           # Featured repositories
-          plugin_repositories: yes
-          plugin_repositories_featured: "AuthForge, student-management-system-springboot-react, LeetCode-DSA"
+          # plugin_repositories: yes
+          # plugin_repositories_featured: "AuthForge, student-management-system-springboot-react, LeetCode-DSA"
 
 
           # Topics (might delete)
