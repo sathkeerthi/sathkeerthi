@@ -26,8 +26,8 @@
 
 <table style="width:100%; table-layout:fixed;">
   <tr>
-    <td style="vertical-align:middle;">
-      <h3 style="margin:10px;">Detailed Stats: </h3>
+    <td style="vertical-align:middle; background-color: black">
+      <h3 style="margin:10px;color:rgba(255, 255, 255, 0.704)">Detailed Stats: </h3>
       <div align="center" style="margin:0;">
         <img width="100%" src="https://raw.githubusercontent.com/sathkeerthi/sathkeerthi/main/github-metrics.svg" alt="Detailed Metrics"/>
       </div>
@@ -35,13 +35,13 @@
     <td style="max-width:350px; width:30%; text-align:left; vertical-align:top;">
       <h4 style="margin:10px;">Pinned repositories: </h4>
       <a href="https://github.com/sathkeerthi/AuthForge">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathkeerthi&repo=AuthForge&theme=transparent" alt="AuthForge" width="300"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathkeerthi&repo=AuthForge&theme=github_dark_dimmed" alt="AuthForge" width="320"/>
       </a><br/>
       <a href="https://github.com/sathkeerthi/student-management-system-springboot-react">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathkeerthi&repo=student-management-system-springboot-react&theme=transparent" alt="Student Management System" width="300"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathkeerthi&repo=student-management-system-springboot-react&theme=github_dark_dimmed" alt="Student Management System" width="320"/>
       </a><br/>
       <a href="https://github.com/sathkeerthi/LeetCode-DSA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathkeerthi&repo=LeetCode-DSA&theme=transparent" alt="Leetcode DSA" width="300"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathkeerthi&repo=LeetCode-DSA&theme=github_dark_dimmed" alt="Leetcode DSA" width="320"/>
       </a>
     </td>
   </tr>
