@@ -69,7 +69,6 @@ jobs:
           # Leetcode
           plugin_leetcode: yes
           plugin_leetcode_user: syagni
-          plugin_leetcode: yes
           plugin_leetcode_sections: solved, recent
 
 
