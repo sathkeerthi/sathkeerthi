@@ -51,7 +51,10 @@ jobs:
 
           # Featured repositories
           plugin_repositories: yes
-          plugin_repositories_featured: [AuthForge, student-management-system-springboot-react, LeetCode-DSA]
+          plugin_repositories_featured:
+            - AuthForge
+            - student-management-system-springboot-react
+            - LeetCode-DSA
 
           # Topics (might delete)
           plugin_topics: yes
