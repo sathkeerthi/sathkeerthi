@@ -24,31 +24,28 @@
 |:---:|:---:| -->
 
 
-<div style="display: flex; align-items: flex-start; width: 100%; gap: 10px;">
-  <!-- Left section -->
-  <div style="flex: 7;">
-    <h3 style="margin:10px;">Detailed Stats:</h3>
-    <div align="center" style="margin:0;">
-      <img width="100%" src="https://raw.githubusercontent.com/sathkeerthi/sathkeerthi/main/github-metrics.svg" alt="Detailed Metrics"/>
-    </div>
-  </div>
-
-  <!-- Right section -->
-  <div style="flex: 3;">
-    <h4 style="margin:10px;">Pinned repositories:</h4>
-    <a href="https://github.com/sathkeerthi/AuthForge">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathkeerthi&repo=AuthForge&theme=transparent" alt="AuthForge"/>
-    </a>
-    <br/>
-    <a href="https://github.com/sathkeerthi/student-management-system-springboot-react">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathkeerthi&repo=student-management-system-springboot-react&theme=transparent" alt="Student Management System"/>
-    </a>
-    <br/>
-    <a href="https://github.com/sathkeerthi/LeetCode-DSA">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathkeerthi&repo=LeetCode-DSA&theme=transparent" alt="Leetcode DSA"/>
-    </a>
-  </div>
-</div>
+<table style="width:100%; table-layout:fixed;">
+  <tr>
+    <td style="vertical-align:middle;">
+      <h3 style="margin:10px;">Detailed Stats: </h3>
+      <div align="center" style="margin:0;">
+        <img width="100%" src="https://raw.githubusercontent.com/sathkeerthi/sathkeerthi/main/github-metrics.svg" alt="Detailed Metrics"/>
+      </div>
+    </td>
+    <td style="max-width:300px; width:30%; text-align:left; vertical-align:top;">
+      <h4 style="margin:10px;">Pinned repositories: </h4>
+      <a href="https://github.com/sathkeerthi/AuthForge">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathkeerthi&repo=AuthForge&theme=transparent" alt="AuthForge" width="250"/>
+      </a><br/>
+      <a href="https://github.com/sathkeerthi/student-management-system-springboot-react">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathkeerthi&repo=student-management-system-springboot-react&theme=transparent" alt="Student Management System" width="250"/>
+      </a><br/>
+      <a href="https://github.com/sathkeerthi/LeetCode-DSA">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathkeerthi&repo=LeetCode-DSA&theme=transparent" alt="Leetcode DSA" width="250"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
