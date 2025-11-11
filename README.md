@@ -37,7 +37,7 @@
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
           width="290"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathkeerthi&langs_count=8&theme=rose" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathkeerthi&langs_count=8&theme=react" 
           alt="Top Languages" 
         />
       </a>
