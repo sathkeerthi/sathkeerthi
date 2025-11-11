@@ -33,6 +33,15 @@
       </div>
     </td>
     <td style="max-width:330px; width:30%; text-align:left; vertical-align:top;">
+      <h4 style="margin:10px;">Top Languages:</h4>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img 
+          width="290"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathkeerthi&langs_count=8&theme=rose" 
+          alt="Top Languages" 
+        />
+      </a>
+      <br/>
       <h4 style="margin:10px;">Pinned repositories: </h4>
       <a href="https://github.com/sathkeerthi/AuthForge">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=sathkeerthi&repo=AuthForge&theme=github_dark_dimmed" alt="AuthForge" width="290"/>
