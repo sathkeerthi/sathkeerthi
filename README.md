@@ -5,10 +5,10 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
+<div align="center" style="margin-bottom:0px; padding-bottom: 0px;><a href="https://wakatime.com/@77119e1d-d265-415a-ad0f-37d728ef119e"><img src="https://wakatime.com/badge/user/77119e1d-d265-415a-ad0f-37d728ef119e.svg" alt="Total time coded" /></a></div>
 
 <h3 align="center">Connect with me</h3>
-<p align="center">
+<p align="center"">
 <a href="https://linkedin.com/in/sathkeerthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sathkeerthi" height="30" width="40" /></a>
 <a href="https://leetcode.com/syagni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syagni" height="30" width="40" /></a>
 </p>
