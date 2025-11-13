@@ -33,12 +33,18 @@
       </div>
     </td>
     <td style="max-width:330px; width:30%; text-align:left; vertical-align:top;">
-      <h4 style="margin:10px;">Top Languages:</h4>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <h4 style="margin:10px;">Total WakaTime Stats:</h4>
+      <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
         <img 
           width="290"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathkeerthi&langs_count=8&theme=react" 
           alt="Top Languages" 
+        />
+      </a> -->
+      <a href = "https://wakatime.com/@sathkeerthi">
+        <img 
+          width="290"
+          src="https://github-readme-stats.vercel.app/api/wakatime?username=sathkeerthi&&layout=default&&theme=holi"
         />
       </a>
       <br/>
