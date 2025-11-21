@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <!-- Wakatime total hours badge -->
-<div align="left" style="margin-bottom:0px; padding-bottom: 0px;><a href="https://wakatime.com/@sathkeerthi"><img src="https://wakatime.com/badge/user/77119e1d-d265-415a-ad0f-37d728ef119e.svg" alt="Total time coded" /></a></div>
+<a href="https://wakatime.com/@sathkeerthi"><img src="https://wakatime.com/badge/user/77119e1d-d265-415a-ad0f-37d728ef119e.svg" alt="Total time coded" /></a>
 
 <h3 align="center">Connect with me</h3>
 <p align="center"">
